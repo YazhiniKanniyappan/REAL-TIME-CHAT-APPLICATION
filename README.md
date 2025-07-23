@@ -94,3 +94,17 @@ http://localhost:3000
 This project was built as part of my internship to explore real-time communication systems and frontend development. It gave me hands-on experience with WebSockets and React state management.
 
 ## OUTPUT: 
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/2529e6f7-a7cc-4b3a-8b61-0791eecc052f" />
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/46ccbd29-bff9-42e1-87fe-2643474ba216" />
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/10d40c50-2d24-4877-b38a-570d8ab1ac63" />
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/94da059b-3eb5-420d-adcf-03bbdcd6c3bb" />
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/517e068c-1166-4cca-87bb-eb29e3662110" />
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/3ae6d03a-bb23-48a8-96c8-30b1d757a546" />
+
+
