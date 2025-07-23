@@ -1,40 +1,45 @@
-# 💬 Real-Time Chat Application
+# INTERACTIVE-QUIZ-APPLICATION
 
-This is the **second task** completed during my internship — a fully functional real-time chat app built using **React.js** and **WebSockets**. The application allows users to chat instantly, shows active user count, and maintains message history — all within a responsive interface.
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : YAZHINI. K
+
+*INTERN ID* : CT04DH316
+
+*DOMAIN* : FRONTEND WEB DEVELOPMENT
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH KUMAR
+
+# TASK 2 - 💬REAL TIME CHAT APPLICATION - DESCRIPTION :
+
+Real-time chat applications play a vital role in modern communication. Whether it's customer support, social interaction, or collaboration platforms, the ability to send and receive messages instantly enhances user experience. This project aims to simulate such an environment with a simple and scalable architecture using React and WebSockets.
 
 ---
 
-## 📌 Internship Task Details
-
-> **Objective:**  
-> Build a real-time chat interface using a front-end framework (React.js or Vue.js) and WebSockets.
-
-> **Deliverable:**  
-> A responsive UI with live message updates and message history display.
-
----
 
 ## 🚀 Features
 
-- 🔴 Real-time communication using WebSockets  
-- 🙋‍♂️ User join and leave tracking  
-- 🧾 Message history with timestamps  
-- 👥 Live user count display  
-- 📱 Fully responsive and mobile-friendly interface  
-- 🎨 Differentiated styling for sent and received messages
-
+- 🔴 **Real-time Communication:** Built using WebSocket API for instant message delivery.
+- 🙋‍♂️ **User Activity Tracking:** Displays real-time user join and leave notifications.
+- 🧾 **Message History:** Shows a complete list of chat messages with timestamps.
+- 👥 **Live User Count:** View the number of active users in real time.
+- 🎨 **Styled Message Bubbles:** Sent and received messages are styled differently.
+- 📱 **Responsive UI:** Works seamlessly on desktops, tablets, and mobile devices.
 ---
 
 ## 🛠️ Technologies Used
 
-- React.js  
-- WebSocket API  
-- HTML5, CSS3  
-- Node.js (for WebSocket server)
+- **Frontend:** React.js, HTML5, CSS3
+- **Backend:** Node.js, WebSocket API
+- **Others:** React Hooks, Flexbox for layout, npm for package management
+
 
 ---
 
 ## 📂 Project Structure
+```
 real-time-chat-app/
 ├── chat-client/ # React frontend
 │ ├── src/
@@ -43,7 +48,23 @@ real-time-chat-app/
 ├── package.json # For backend
 ├── node_modules/ # Backend dependencies
 └── README.md
+```
 
+---
+
+## 🎯 Learning Outcomes
+
+During the development of this project, I gained hands-on experience in:
+
+- Building a WebSocket server using Node.js
+- Setting up real-time communication between frontend and backend
+- Structuring React projects and creating modular components
+- Managing application state using React Hooks (`useState`, `useEffect`)
+- Handling user input and rendering live message updates
+- Creating a mobile-friendly layout using CSS Flexbox and media queries
+- Debugging asynchronous, real-time data flows
+
+This project significantly improved my confidence in building responsive and interactive full-stack applications.
 
 ---
 
@@ -54,15 +75,22 @@ real-time-chat-app/
 ```bash
 git clone https://github.com/your-username/real-time-chat-app.git
 cd real-time-chat-app
-
+```
+### 🔹 2. Start the WebSocket Server
+```bash
 npm install
 node server.js
+```
+### 🔹 3. Start the React Frontend
+```bash
 cd chat-client
 npm install
 npm start
-
+```
 Now open your browser and visit:
 http://localhost:3000
 
 🤝 Acknowledgments
 This project was built as part of my internship to explore real-time communication systems and frontend development. It gave me hands-on experience with WebSockets and React state management.
+
+## OUTPUT: 
